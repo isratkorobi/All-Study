@@ -1,0 +1,24 @@
+.card{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 10px 2px rgb(0 0 0 / 10%);
+    transition: .25s ease-out;
+    border:none;
+}
+.popular-course p{
+margin-bottom:5%;
+font-size: 16px;
+    color: #696969;
+}
+.popular-course h1{
+    color: #6c5ebf;
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5;
+    font-weight: 700;
+}
+.home-container{
+
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 10px;
+}

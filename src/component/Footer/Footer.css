@@ -1,0 +1,24 @@
+.footer{
+    background-color: #34495e!important;
+    padding-top:8%;
+    padding-bottom:8%;
+    margin-top:10%;
+}
+.footer h4{
+    color:#fff!important;
+    font-size:18px;
+    font-weight:700;
+}
+.nav-menu{
+    font-weight: bold;
+    color:#fff;
+    font-size:16px;
+}
+.nav-icon{
+    font-weight: bold;
+    color:#fff;
+    font-size:18px;
+}
+.foot-contact{
+    color:#fff;
+}

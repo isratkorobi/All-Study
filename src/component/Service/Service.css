@@ -1,0 +1,14 @@
+.title{
+    color:rgb(0, 0, 0);
+    font-weight:700;
+    font-family: 'Open Sans', sans-serif;
+}
+.icon i{
+    color:darkorange;
+}
+.card-text{
+    color:#6c5ebf;
+}
+.card-span{
+    color:#6c5ebf;
+}

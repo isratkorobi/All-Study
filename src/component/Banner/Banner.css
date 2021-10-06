@@ -1,0 +1,19 @@
+.banner{
+  background-image: url('https://demos.codexcoder.com/labartisan/html/all-study-demo/assets/images/header-bg.jpg');
+  height:100vh;
+  width: 100%;
+  /* border: 1px solid red; */
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.banner-content{
+  align-items: center;
+  padding-top:20%;  
+  color:#fff;
+}
+.banner-content h1{
+    font-size:50px;
+    font-weight:bold;
+}

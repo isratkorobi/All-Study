@@ -1,0 +1,15 @@
+.contact{
+    padding:20px;
+    box-shadow: 0px 0px 10px 2px rgb(0 0 0 / 10%);
+    margin-top:10%;
+}
+.from-text{
+    font-weight: 700;
+    color:rgb(80, 78, 78);
+    font-size:18px;
+}
+.contact-btn{
+    font-size:18px;
+    font-weight: 700;
+    padding:8px 18px;
+}
